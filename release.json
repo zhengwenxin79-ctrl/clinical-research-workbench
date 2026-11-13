@@ -1,0 +1,10 @@
+{
+  "prepared_on": "2026-11-13",
+  "source": "formal dist/index.html",
+  "content_sha256": "bc8c010b470f2fab2f640bda497e1690d656f07acd3214fbae2e3a13ca6e35a3",
+  "research_cutoff": "2026-11-11",
+  "review_drafts_included": false,
+  "collection_schedule_enabled": false,
+  "deployment_state": "ready_for_deployment",
+  "repository": "https://github.com/zhengwenxin79-ctrl/clinical-research-workbench"
+}
